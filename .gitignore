@@ -65,3 +65,5 @@ ehthumbs.db
 
 # Environment variables file
 .env
+
+.mypy_cache/
